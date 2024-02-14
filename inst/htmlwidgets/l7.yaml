@@ -1,0 +1,11 @@
+dependencies:
+  - name: jquery
+    version: 3.7.0
+    src: htmlwidgets/lib/jquery
+    script:
+      - jquery.slim.min.js
+  - name: l7plot
+    version: 0.5.7
+    src: htmlwidgets/lib/l7plot
+    script:
+      - l7plot.min.js
